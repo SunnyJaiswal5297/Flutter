@@ -1,6 +1,6 @@
 void main() {
-  print("Hello World");
-  print(2020);
-  print(true);
-  print('Thats it');
+  var mylist = new List();
+  mylist.add(1);
+  mylist.add(2);
+  print(mylist);
 }
